@@ -30,3 +30,13 @@
     font-weight: bold;
     margin-bottom: 10px;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('https://marketplace.canva.com/EAFCO6pfthY/1/0/1600w/canva-blue-green-watercolor-linktree-background-F2CyNS5sQdM.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
